@@ -6,20 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-<?php
-$txt = "W3Schools.com";
-echo "I love $txt!";
-?>
-
- <?php
-$txt = "W3Schools.com";
-echo "I love " . $txt . "! ";
-?>
-
-<?php
-$x = 5;
-$y = 4;
-echo $x + $y;
-?>
+    <?php 
+    echo "<h2>PHP is fun!</h2>";
+    echo "Hello world! <br> ";
+    echo " I'm about to learn PHP <br> ";
+    print "This ". "string ". "was ". "made ". "with multiple parameters.";
+    ?>
 </body>
 </html>
