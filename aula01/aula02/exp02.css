@@ -1,0 +1,21 @@
+h1{
+    background-color: lightblue;
+}
+
+p{
+    background-color: khaki;
+}
+
+h2{
+    background-color: wheat ;
+}
+
+#p2{
+    background-color: lightgreen;
+}
+
+.style{
+    background-color: seagreen;
+    height: 150px;
+    width: 1350px;
+}
