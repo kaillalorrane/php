@@ -4,9 +4,14 @@ body{
 
 h1{
 background-color: #b2b3db;
+text-align: center;
 }
 
 h2{
 background-color: #c5c6e4;
+}
+
+pre{
+    background-color: #8f93cc;
 }
 
