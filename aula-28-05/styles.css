@@ -1,0 +1,42 @@
+body{
+    background-color: #ffdad4;
+}
+pre{
+    background-color: #ffc7be;
+}
+h2{
+    background-color: #ffb9ae;
+}
+
+#alunos{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+ tr{
+    border: 1px solid #fbabff;
+    padding: 10px;
+  }
+
+    #alunos tr:nth-child(even){background-color: #ed2d70;}
+    #alunos tr:hover {background-color: #e871f0;}
+
+
+ th {
+    
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  background-color: #bd6b88;
+  color: white;
+  border: 1px solid #fbabff;;
+}
+
+ td{
+    background-color:#ffc7be;
+    text-align: left;
+    border: 1px solid #fbabff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
